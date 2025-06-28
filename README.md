@@ -83,5 +83,3 @@ Kamal Jyot Singh Anand
 ⭐ If you found this project useful, please consider starring the repository!
 
 ---
-
-This version is 100% Markdown-friendly and designed to look great on your GitHub repo page. Let me know if you’d like to add badges, a license, or install instructions too.
